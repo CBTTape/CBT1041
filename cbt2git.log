@@ -1,0 +1,25 @@
+2023-08-06 01:06:59.393416 - Initialized conversion of CBT1041
+2023-08-06 01:07:00.735583 - Received CBT.V505.FILE1041.PDS from FILE1041.XMI 
+2023-08-06 01:07:00.738029 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE1041.PDS, moved to PDS/$$$#DATE
+2023-08-06 01:07:00.738933 - Found $README.txt (text/plain) in CBT.V505.FILE1041.PDS, moved to PDS/$README
+2023-08-06 01:07:00.739843 - Found @FIL1041.txt (text/plain) in CBT.V505.FILE1041.PDS, moved to PDS/@FIL1041
+2023-08-06 01:07:00.740890 - Found ANN.txt (text/plain) in CBT.V505.FILE1041.PDS, moved to PDS/ANN
+2023-08-06 01:07:00.742076 - Found B2H.rexx (text/plain) in CBT.V505.FILE1041.PDS, moved to PDS/B2H
+2023-08-06 01:07:00.743074 - Found B2HAPP.txt (text/plain) in CBT.V505.FILE1041.PDS, moved to PDS/B2HAPP
+2023-08-06 01:07:00.743083 - Found B2HEXA.bin containing application/octet-stream, moved to PDS/B2HEXA
+2023-08-06 01:07:00.745101 - Found B2HINF.txt (text/plain) in CBT.V505.FILE1041.PDS, moved to PDS/B2HINF
+2023-08-06 01:07:00.746039 - Found B2HMSG.txt (text/plain) in CBT.V505.FILE1041.PDS, moved to PDS/B2HMSG
+2023-08-06 01:07:00.746045 - Found B2HNAME.bin containing application/octet-stream, moved to PDS/B2HNAME
+2023-08-06 01:07:00.749135 - De-xmi-ed B2HPDF to CBT1041/docs/B2HPDF.pdf
+2023-08-06 01:07:00.750463 - Found B2HR2.html (text/html) in CBT.V505.FILE1041.PDS, moved to PDS/B2HR2
+2023-08-06 01:07:00.751403 - Found B2HSETUP.html (text/html) in CBT.V505.FILE1041.PDS, moved to PDS/B2HSETUP
+2023-08-06 01:07:00.752451 - Found B2HSYS.txt (text/plain) in CBT.V505.FILE1041.PDS, moved to PDS/B2HSYS
+2023-08-06 01:07:00.753469 - Found B2HUSE.txt (text/plain) in CBT.V505.FILE1041.PDS, moved to PDS/B2HUSE
+2023-08-06 01:07:00.755451 - De-xmi-ed HCDDOC to CBT1041/docs/HCDDOC.pdf
+2023-08-06 01:07:00.756886 - Found HTM.html (text/html) in CBT.V505.FILE1041.PDS, moved to PDS/HTM
+2023-08-06 01:07:00.756895 - Found LINKGIF.gif containing image/gif, moved to PDS/LINKGIF
+2023-08-06 01:07:00.758823 - Found NEW.txt (text/plain) in CBT.V505.FILE1041.PDS, moved to PDS/NEW
+2023-08-06 01:07:00.759785 - Found PKG.txt (text/plain) in CBT.V505.FILE1041.PDS, moved to PDS/PKG
+2023-08-06 01:07:00.760630 - Found PRO.html (text/html) in CBT.V505.FILE1041.PDS, moved to PDS/PRO
+2023-08-06 01:07:00.761507 - Found SCT.html (text/html) in CBT.V505.FILE1041.PDS, moved to PDS/SCT
+2023-08-06 01:07:00.762475 - Found SYM.txt (text/plain) in CBT.V505.FILE1041.PDS, moved to PDS/SYM
